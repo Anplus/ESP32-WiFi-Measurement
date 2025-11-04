@@ -32,6 +32,7 @@ This allows you to *see* how Wi-Fi strength changes as you move the board around
 **Connections:**  
 No external wiring needed — the RGB LED is built-in (on GPIO 48).
 
+**Tutorial Video**: https://www.youtube.com/watch?v=1pI6c8AfpmM
 ---
 
 ## 💻 Software Setup
