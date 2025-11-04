@@ -43,6 +43,10 @@ Download from [https://www.arduino.cc/en/software](https://www.arduino.cc/en/sof
 
 1. Open **Tools → Board → Boards Manager**, search **ESP32**, and install the latest version.
 
+2. Connect the ESP32 board to your computer via USB
+
+3. *Hold the **BOOT** button and press **RESET** and release it, then release **BOOT** (to enter flash mode).*
+
 ### 3. Select the Correct Board & Port
 - **Board:** `ESP32S3 Dev Module`  
 - **Port:** e.g. `/dev/cu.usbmodemXXXX` (Mac) or `COMx` (Windows)
